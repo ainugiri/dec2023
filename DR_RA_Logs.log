@@ -1,0 +1,139 @@
+12.12.2023-16:36:48: <LOG> [0] Old User Profiles to delete : N - X
+12.12.2023-16:36:48: <LOG> [1] WinSXS folder clean + pending.xml : Y - 0
+12.12.2023-16:36:48: <LOG> [2] User recycle bin cleanup : N - X
+12.12.2023-16:36:48: <LOG> [3] Remove memory dump files : Y - 14
+12.12.2023-16:36:48: <LOG> [4] pending.xml  : Y - 0
+12.12.2023-16:36:48: <LOG> [5] C:\Windows\Debug : Y - 7
+12.12.2023-16:36:48: <LOG> [6] C:\Windows\SofwareDistribution\*.* : Y - 0
+12.12.2023-16:36:48: <LOG> [7] C:\Windows\system32\Catroot2\*.*  : Y - 0
+12.12.2023-16:36:48: <LOG> [8] C:\Windows\WindowsUpdate.log : Y - 0
+12.12.2023-16:36:48: <LOG> [9] C:\Windows\SofwareDistribution\Download : Y - 7
+12.12.2023-16:36:48: <LOG> [10] C:\Windows\Temp : Y - 0
+12.12.2023-16:36:48: <LOG> [11] C:\Windows\msdownld.tmp : Y - 0
+12.12.2023-16:36:49: <LOG> [12] C:\Windows\Logs\CBS : Y - 0
+12.12.2023-16:36:49: <LOG> [13] C:\Windows\KB……log  : Y - 0
+12.12.2023-16:36:49: <LOG> [14] C:\Users\{Username}\AppData\Local\Temp : N - X
+12.12.2023-16:36:49: <LOG> [15] C:\Users\{Username}\AppData\Local\Temporary Internet Files\Content.IE5 : N - X
+12.12.2023-16:36:49: <LOG> [16] C:\Users\{Username}\AppData\Local\Microsoft\Windows\Temporary Internet Files : N - X
+12.12.2023-16:36:49: <LOG> [17] C:\Users\{Username}\AppData\Local\Microsoft\Terminal Server Client\Cache\*.* : N - X
+12.12.2023-16:36:49: <LOG> [18] C:\System.sav : Y - 0
+12.12.2023-16:36:49: <LOG> [19] C:\Intel : Y - 0
+12.12.2023-16:36:49: <LOG> [20] C:\PerfLogs : Y - 7
+12.12.2023-16:36:49: <LOG> [21] Purging old device drivers from the Windows DriverStore File Repository : Y - 7
+12.12.2023-16:36:49: <LOG> [22] Execution of Microsoft Disk Cleanup Tool : Y - 0
+12.12.2023-16:36:49: <LOG> [23] C:\Windows\Downloaded Program Files : Y - 0
+12.12.2023-16:36:49: <LOG> [24] C:\Users\{Username}\Downloads folder : N - X
+12.12.2023-16:36:50: <ACTION> [0] - skipped - N
+12.12.2023-16:36:50: <ACTION> [21] - invoked
+12.12.2023-16:36:50: <LOG> Cleaning drivers
+12.12.2023-16:37:07: <LOG> Removing driver: oem87.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem126.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem124.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem114.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem16.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem50.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem49.inf
+12.12.2023-16:37:08: <LOG> Removing driver: oem146.inf
+12.12.2023-16:37:09: <LOG> Removing driver: oem62.inf
+12.12.2023-16:37:09: <LOG> Removing driver: oem67.inf
+12.12.2023-16:37:09: <LOG> Removing driver: oem65.inf
+12.12.2023-16:37:09: <LOG> Removing driver: oem112.inf
+12.12.2023-16:37:09: <LOG> Removing driver: oem15.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem66.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem135.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem131.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem85.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem34.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem48.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem26.inf
+12.12.2023-16:37:10: <LOG> Removing driver: oem2.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem79.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem110.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem5.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem83.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem44.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem93.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem46.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem105.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem100.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem36.inf
+12.12.2023-16:37:11: <LOG> Removing driver: oem92.inf
+12.12.2023-16:37:12: <LOG> Removing driver: oem147.inf
+12.12.2023-16:37:13: <LOG> Removing driver: oem95.inf
+12.12.2023-16:37:13: <LOG> Removing driver: oem98.inf
+12.12.2023-16:37:13: <LOG> Removing driver: oem71.inf
+12.12.2023-16:37:13: <LOG> Removing driver: oem144.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem145.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem20.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem7.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem11.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem53.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem108.inf
+12.12.2023-16:37:14: <LOG> Removing driver: oem58.inf
+12.12.2023-16:37:15: <ACTION> [21] - done
+12.12.2023-16:37:15: <LOG> Removing old system files
+12.12.2023-16:37:15: <LOG> Stopping servicers: bits, wuauserv, appidsvc, cryptsvc, netlogon
+12.12.2023-16:37:16: <ACTION> [1] - invoked
+12.12.2023-16:37:16: <ACTION> [1] - nothing to do
+12.12.2023-16:37:16: <ACTION> [2] - skipped - N
+12.12.2023-16:37:16: <ACTION> [3] - invoked
+12.12.2023-16:37:16: <ACTION> [3] - no minidump
+12.12.2023-16:37:16: <ACTION> [5] - invoked
+12.12.2023-16:37:16: <ACTION> [5] - done
+12.12.2023-16:37:16: <ACTION> [6] - invoke
+12.12.2023-16:37:16: <LOG> Removing content of C:\Windows\SoftwareDistribution
+12.12.2023-16:37:16: <ACTION> [6] - done
+12.12.2023-16:37:16: <ACTION> [7] - invoke
+12.12.2023-16:37:16: <LOG> Removing content of C:\Windows\system32\Catroot2
+12.12.2023-16:37:16: <ACTION> [7] - done
+12.12.2023-16:37:16: <ACTION> [8] - invoke
+12.12.2023-16:37:17: <LOG> Removing C:\Windows\WindowsUpdate.log
+12.12.2023-16:37:17: <ACTION> [8] - done
+12.12.2023-16:37:17: <ACTION> [9] - invoke
+12.12.2023-16:37:17: <LOG> Removing old files from C:\Windows\SoftwareDistribution\Download
+12.12.2023-16:37:17: <ERROR> Windows PowerShell is in NonInteractive mode. Read and Prompt functionality is not available.
+12.12.2023-16:37:17: <ACTION> [9] - done
+12.12.2023-16:37:17: <ACTION> [10] - invoked
+12.12.2023-16:37:18: <ACTION> [10] - done
+12.12.2023-16:37:18: <ACTION> [11] - invoked
+12.12.2023-16:37:18: <ACTION> [11] - no msdownld.tmp
+12.12.2023-16:37:18: <ACTION> [12] - invoked
+12.12.2023-16:37:18: <ACTION> [12] - no CbsPersist
+12.12.2023-16:37:18: <LOG> Clearing content of user profiles
+12.12.2023-16:37:18: <LOG> Attempting to clear A717640 home folder
+12.12.2023-16:37:18: <ACTION> [14] - skipped - N
+12.12.2023-16:37:18: <ACTION> [15] - skipped - N
+12.12.2023-16:37:18: <ACTION> [16] - skipped - N
+12.12.2023-16:37:18: <ACTION> [17] - skipped - N
+12.12.2023-16:37:18: <ACTION> [24] - skipped - N
+12.12.2023-16:37:18: <LOG> Attempting to clear a825662 home folder
+12.12.2023-16:37:18: <ACTION> [14] - skipped - N
+12.12.2023-16:37:18: <ACTION> [15] - skipped - N
+12.12.2023-16:37:18: <ACTION> [16] - skipped - N
+12.12.2023-16:37:18: <ACTION> [17] - skipped - N
+12.12.2023-16:37:18: <ACTION> [24] - skipped - N
+12.12.2023-16:37:18: <LOG> Attempting to clear a825662.CORP home folder
+12.12.2023-16:37:18: <ACTION> [14] - skipped - N
+12.12.2023-16:37:18: <ACTION> [15] - skipped - N
+12.12.2023-16:37:18: <ACTION> [16] - skipped - N
+12.12.2023-16:37:18: <ACTION> [17] - skipped - N
+12.12.2023-16:37:18: <ACTION> [24] - skipped - N
+12.12.2023-16:37:18: <ACTION> [18] - invoked
+12.12.2023-16:37:18: <ACTION> [19] - invoked
+12.12.2023-16:37:18: <ACTION> [20] - invoked
+12.12.2023-16:37:18: <ACTION> [22] - invoked
+12.12.2023-16:37:18: <LOG> Invoking DISM with /online /Cleanup-Image /SpSuperseded
+12.12.2023-16:37:25: <LOG> Deployment Image Servicing and Management tool
+12.12.2023-16:37:25: <LOG> Version: 10.0.19041.3636
+12.12.2023-16:37:25: <LOG> Image Version: 10.0.19045.3693
+12.12.2023-16:37:25: <LOG> Removing backup files created during service pack installation.
+12.12.2023-16:37:25: <LOG> Error: 13
+12.12.2023-16:37:25: <LOG> Could not enumerate Service Pack on machine. 
+12.12.2023-16:37:25: <LOG> For more information, refer to the help.
+12.12.2023-16:37:25: <LOG> The DISM log file can be found at C:\WINDOWS\Logs\DISM\dism.log
+12.12.2023-16:37:25: <ACTION> [22] - error
+12.12.2023-16:37:25: <LOG> Starting servicers: bits, wuauserv, appidsvc, cryptsvc, netlogon
+12.12.2023-16:37:28: <ERROR> Failed to start service 'netlogon (Netlogon)'.
+12.12.2023-16:37:28: <LOG> free disk space before: 95.36 GB
+12.12.2023-16:37:28: <LOG> free disk space after: 95.58 GB
+12.12.2023-16:37:28: <LOG> space saved: 0.22 GB

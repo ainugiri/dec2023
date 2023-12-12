@@ -1,0 +1,56 @@
+3. Creating a Project
+
+RUN: 
+mkdir hello 
+cd hello 
+touch hello.html
+12.12.2023-16:36:50: <ACTION> [0] - skipped - N
+12.12.2023-16:36:50: <ACTION> [21] - invoked
+12.12.2023-16:37:15: <ACTION> [21] - done
+12.12.2023-16:37:16: <ACTION> [1] - invoked
+12.12.2023-16:37:16: <ACTION> [1] - nothing to do
+12.12.2023-16:37:16: <ACTION> [2] - skipped - N
+12.12.2023-16:37:16: <ACTION> [3] - invoked
+12.12.2023-16:37:16: <ACTION> [3] - no minidump
+12.12.2023-16:37:16: <ACTION> [5] - invoked
+12.12.2023-16:37:16: <ACTION> [5] - done
+12.12.2023-16:37:16: <ACTION> [6] - invoke
+12.12.2023-16:37:16: <ACTION> [6] - done
+12.12.2023-16:37:16: <ACTION> [7] - invoke
+12.12.2023-16:37:16: <ACTION> [7] - done
+12.12.2023-16:37:16: <ACTION> [8] - invoke
+12.12.2023-16:37:17: <ACTION> [8] - done
+12.12.2023-16:37:17: <ACTION> [9] - invoke
+12.12.2023-16:37:17: <ACTION> [9] - done
+12.12.2023-16:37:17: <ACTION> [10] - invoked
+12.12.2023-16:37:18: <ACTION> [10] - done
+12.12.2023-16:37:18: <ACTION> [11] - invoked
+12.12.2023-16:37:18: <ACTION> [11] - no msdownld.tmp
+12.12.2023-16:37:18: <ACTION> [12] - invoked
+12.12.2023-16:37:18: <ACTION> [12] - no CbsPersist
+12.12.2023-16:37:18: <ACTION> [14] - skipped - N
+12.12.2023-16:37:18: <ACTION> [15] - skipped - N
+12.12.2023-16:37:18: <ACTION> [16] - skipped - N
+12.12.2023-16:37:18: <ACTION> [17] - skipped - N
+12.12.2023-16:37:18: <ACTION> [24] - skipped - N
+12.12.2023-16:37:18: <ACTION> [14] - skipped - N
+12.12.2023-16:37:18: <ACTION> [15] - skipped - N
+12.12.2023-16:37:18: <ACTION> [16] - skipped - N
+12.12.2023-16:37:18: <ACTION> [17] - skipped - N
+12.12.2023-16:37:18: <ACTION> [24] - skipped - N
+12.12.2023-16:37:18: <ACTION> [14] - skipped - N
+12.12.2023-16:37:18: <ACTION> [15] - skipped - N
+12.12.2023-16:37:18: <ACTION> [16] - skipped - N
+12.12.2023-16:37:18: <ACTION> [17] - skipped - N
+12.12.2023-16:37:18: <ACTION> [24] - skipped - N
+12.12.2023-16:37:18: <ACTION> [18] - invoked
+12.12.2023-16:37:18: <ACTION> [19] - invoked
+12.12.2023-16:37:18: <ACTION> [20] - invoked
+12.12.2023-16:37:18: <ACTION> [22] - invoked
+12.12.2023-16:37:25: <ACTION> [22] - error
+3. Creating a Project
+
+RUN: 
+mkdir hello 
+cd hello 
+touch hello.html

@@ -1,0 +1,23 @@
+12.12.2023-16:37:17: <ERROR> Windows PowerShell is in NonInteractive mode. Read and Prompt functionality is not available.
+12.12.2023-16:37:28: <ERROR> Failed to start service 'netlogon (Netlogon)'.
+3. Creating a Project
+
+RUN: 
+mkdir hello 
+cd hello 
+touch hello.html
+
+3. Creating a Project
+
+RUN: 
+mkdir hello 
+cd hello 
+touch hello.html
+
+3. Creating a Project
+
+RUN: 
+mkdir hello 
+cd hello 
+touch hello.html
+
