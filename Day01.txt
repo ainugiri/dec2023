@@ -102,7 +102,7 @@ You will see …
 git add a.html 
 git add b.html 
 git commit -m "Changes for a and b" 
-git add c.html 
+git add f.html 
 git commit -m "Unrelated change to c"
 
 8.Commiting the changes
@@ -156,6 +156,70 @@ git config --global alias.dump 'cat-file -p'
 
 RUN: 
 git hist
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
+
+RUN: 
+git checkout <hash>
+ cat hello.html
+
+RUN: 
+git checkout master 
+cat hello.html
 
 RUN: 
 git checkout <hash>
